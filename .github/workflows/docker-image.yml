@@ -7,7 +7,7 @@ on:
       - main
 #
 jobs:
-  handbrake:
+  alpine-imagemagick:
     runs-on: ubuntu-latest
     permissions:
       contents: read
